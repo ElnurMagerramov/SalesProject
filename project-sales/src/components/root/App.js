@@ -13,8 +13,6 @@ import About from "../about/About";
 import Footer from "../Footer/Footer";
 import Contact from "../contact/Contact";
 import CategoriesAndProducts from "./CategoriesAndProducts";
-import CategoryList from "../categories/CategoryList";
-import ProductList from "../products/ProductList";
 import ProductPagination from "../products/ProductPagination";
 import Categories from "../categories/Categories";
 

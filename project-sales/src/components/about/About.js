@@ -14,7 +14,7 @@ export default function About() {
             <Container>
                 <Row>
                     <Col xs="5">
-                        <img src={categoryImg} className="col-12" />
+                        <img src={categoryImg} className="col-12" alt="categoryImg"/>
                     </Col>
                     <Col xs="7" style={{ color: "white" }}>
                         <h1 className='text-center'>Categories</h1>
@@ -31,10 +31,10 @@ export default function About() {
                 <Row>
                     <Col xs="3">
                         <Row>
-                            <img src={product1} className="col-12" />
+                            <img src={product1} className="col-12" alt="product1"/>
                         </Row>
                         <Row>
-                            <img src={product2} className="col-12" />
+                            <img src={product2} className="col-12" alt="product2"/>
                         </Row>
                     </Col>
                     <Col xs='6' style={{ color: "white" }}>
@@ -51,10 +51,10 @@ export default function About() {
                     </Col>
                     <Col xs="3">
                         <Row>
-                            <img src={product3} className="col-12" />
+                            <img src={product3} className="col-12" alt="product3"/>
                         </Row>
                         <Row>
-                            <img src={product4} className="col-12" />
+                            <img src={product4} className="col-12" alt="product4"/>
                         </Row>
                     </Col>
                 </Row>
@@ -77,10 +77,10 @@ export default function About() {
                     </Col>
                     <Col xs="5">
                     <Row>
-                            <img src={organization} className="col-12" />
+                            <img src={organization} className="col-12" alt="organization"/>
                         </Row>
                         <Row>
-                            <img src={organization2} className="col-12" />
+                            <img src={organization2} className="col-12" alt="organization2"/>
                         </Row>
                     </Col>
                 </Row>

@@ -42,7 +42,7 @@ function MiddleAbout() {
         </p>
             </Col>
             <Col xs="6">
-            <img src={product1} className="col-12" />
+            <img src={product1} className="col-12"  alt="product1"/>
             </Col>
         </Row>
         <br />
